@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi-v4/connection.png
+SHA1-Digest: nJPdAZ3kFSPo55fuInS/lvonvhE=
+
+Name: res/drawable-hdpi-v4/unconnection.png
+SHA1-Digest: mWUigeGwSHVL4z9dVMN8RAMj2Fc=
+
+Name: res/drawable-hdpi-v4/installed_two.png
+SHA1-Digest: kazP1Dx7DBFJ1gZGZ2HnP5ISAN4=
+
+Name: res/layout/activity_twinkle.xml
+SHA1-Digest: JDTkmtg6JfIukSd6p3J3hfwEXJc=
+
+Name: res/drawable-hdpi-v4/installed_one.png
+SHA1-Digest: ZZvSBTAyECVUbfEVixaBqZdTe+o=
+
+Name: resources.arsc
+SHA1-Digest: S5OrUL9KG4uxDd5rqCR+wpZWRmU=
+
+Name: classes.dex
+SHA1-Digest: +8Sm+BWNg2haAkwUQ1/YbtNBDp4=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: n3gGEFkJ5B0HusFP6shNNc9EAWs=
+
+Name: res/layout/activity_screen_live.xml
+SHA1-Digest: KNaCsrXEN185/V9zMTcVxmB6qmc=
+
+Name: res/drawable/installed_tips_animation.xml
+SHA1-Digest: d4ztozOyTZEEyVP5gq/gXGCXJKk=
+
+Name: res/drawable-hdpi-v4/uninstalling.png
+SHA1-Digest: tuMbvvTdZ8445yzoiBExmOvojLw=
+
+Name: res/xml/device_admin_sample.xml
+SHA1-Digest: oGRP97pkp8CcA4i3HQLTfoCQ0Hg=
+
+Name: res/drawable-hdpi-v4/installing.png
+SHA1-Digest: +NO81InmYJ/tn2coPWZ377qL8Gw=
+

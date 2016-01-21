@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: i2H7WZe7yBoZOE8WdZyncQpzuKc=
+
+Name: res/drawable-hdpi-v4/connection.png
+SHA1-Digest: AYZVWfA0Dd0tukDldriel7dYtI4=
+
+Name: res/drawable-hdpi-v4/unconnection.png
+SHA1-Digest: KUkJP+WPzcl8DRX2vonMsbgK14I=
+
+Name: res/drawable-hdpi-v4/installed_two.png
+SHA1-Digest: Ci/V6ylX8+QPODneLD/hsFQUAFo=
+
+Name: res/layout/activity_twinkle.xml
+SHA1-Digest: MdQJ1oXlyweA+2PfNPXuWWILOiY=
+
+Name: res/drawable-hdpi-v4/installed_one.png
+SHA1-Digest: YgygIzqvM//bYFEWOdXN/siYuws=
+
+Name: resources.arsc
+SHA1-Digest: 3BWE10BFsgx/UbkBXi9/qxoXxK0=
+
+Name: classes.dex
+SHA1-Digest: 3S5RDxcVciyztBY/5c1Gj0vrYc4=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: H35UT0jFtkIocQPPAtkMPSGojhk=
+
+Name: res/layout/activity_screen_live.xml
+SHA1-Digest: RttCqUx0RIt/E65HMlnZNQ6nP+8=
+
+Name: res/drawable/installed_tips_animation.xml
+SHA1-Digest: olU3C6jtdz338CwUlEDrVarXkFI=
+
+Name: res/drawable-hdpi-v4/uninstalling.png
+SHA1-Digest: xKb7pNL+AbzTO0Icl5rqYwP9tfY=
+
+Name: res/xml/device_admin_sample.xml
+SHA1-Digest: tBA0mtf2LKtcrlRhtSDQ8rKoiYI=
+
+Name: res/drawable-hdpi-v4/installing.png
+SHA1-Digest: 3Je+zb2SMg8Kd9yTz4Di7Y1/ZiA=
+
