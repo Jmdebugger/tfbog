@@ -34,5 +34,5 @@ class MyUtils:
 
 
 if __name__ == "__main__":
-    print MyUtils.decrypt(app_key,MyUtils.encrypt(app_key , "你好world\n{d:23}"))
+    print MyUtils.decrypt(app_key,MyUtils.encrypt(app_key , "你好全世界！{hello world!}"))
 
